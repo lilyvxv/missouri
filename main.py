@@ -31,7 +31,7 @@ def submit_form():
                 'TextFieldController_2': faker.city(),
                 'DropdownListFieldController': random.choice(['ME', 'MD', 'MA', 'MI', 'MN', 'MS']),
                 'TextFieldController_6': faker.zipcode(),
-                'TextFieldController_0': faker.free_email(),
+                'TextFieldController_0': faker.email(),
                 'TextFieldController_3': phone_number(),
                 'ParagraphTextFieldController': faker.sentence(),
             }
