@@ -2,9 +2,8 @@
 <div align="center">
 
 # fuck missouri
-</div>
-
 open an issue if any problems occur!
+</div>
 
 ### credits :3
 [@rybot666](https://github.com/rybot666) captcha solver (project wouldnt be working w/o) :3
