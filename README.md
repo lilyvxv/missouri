@@ -2,7 +2,7 @@
 <div align="center">
 
 # fuck missouri
-open an issue if any problems occur!
+#### open an issue if any problems occur :3
 </div>
 
 ### credits :3
