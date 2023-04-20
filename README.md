@@ -1,8 +1,10 @@
+<br/>
 <div align="center">
+
 # fuck missouri
 </div>
 
-### credits
+### credits :3
 [@rybot666](https://github.com/rybot666) captcha solver (project wouldnt be working w/o) :3
 
 ### how install?
@@ -10,7 +12,7 @@
 2. navigate to the project directory
 3. install the packages: `python -m pip install -r requirements.txt`
 
-### how use??
+### how to use??
 run the script with `python main.py`
 
 ### license
